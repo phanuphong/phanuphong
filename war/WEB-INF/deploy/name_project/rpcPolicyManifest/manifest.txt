@@ -1,0 +1,3 @@
+# Module name_project
+# RPC service class, partial path of RPC policy file
+th.ac.utcc.nameproject.client.GreetingService, 4209388614A3A9BFAA260262799CD65B.gwt.rpc

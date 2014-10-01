@@ -1,0 +1,2 @@
+serviceClass: th.ac.utcc.nameproject.client.GreetingService
+path: 4209388614A3A9BFAA260262799CD65B.gwt.rpc
